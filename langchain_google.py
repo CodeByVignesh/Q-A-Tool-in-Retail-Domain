@@ -14,7 +14,7 @@ os.environ["GOOGLE_API_KEY"] = os.getenv("PaLM_API_KEY")
 
 def get_model():
     try:
-        model = ChatGoogleGenerativeAI(model="gemini-2.5-flash-liter")
+        model = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite")
 
         def check_model():
             try:
