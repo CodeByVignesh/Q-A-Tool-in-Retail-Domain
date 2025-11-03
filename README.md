@@ -31,3 +31,11 @@ This project is an **intelligent retail chatbot** that enables natural language 
 * “Show me the total sales for the last quarter.”
 * “List the top 5 best-selling products this month.”
 * “Which stores had the highest revenue growth year over year?”
+
+**Screenshots**
+
+![alt text](<Screenshot 2025-11-03 at 12.27.27.png>)
+![alt text](<Screenshot 2025-11-03 at 12.27.36.png>)
+![alt text](<Screenshot 2025-11-03 at 12.28.09.png>)
+![alt text](<Screenshot 2025-11-03 at 12.28.42.png>)
+![alt text](<Screenshot 2025-11-03 at 12.30.21.png>)
