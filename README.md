@@ -34,8 +34,9 @@ This project is an **intelligent retail chatbot** that enables natural language 
 
 **Screenshots**
 
-![alt text](<Screenshot 2025-11-03 at 12.27.27.png>)
-![alt text](<Screenshot 2025-11-03 at 12.27.36.png>)
-![alt text](<Screenshot 2025-11-03 at 12.28.09.png>)
-![alt text](<Screenshot 2025-11-03 at 12.28.42.png>)
-![alt text](<Screenshot 2025-11-03 at 12.30.21.png>)
+![image1](UI1.png)
+![image2](UI2.png)
+![image3](UI3.png)
+![image4](UI4.png)
+![image5](UI5.png)
+![image6](UI6.png)
